@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 60,
       "messages": [
-        "cs"
+        "PELO JE GEJ"
       ]
     },
     "chat-log": true,
@@ -75,8 +75,8 @@
     "webhookUrl": "cs",
     "events": {
       "connect": true,
-      "disconnect": false,
-      "chat": true
+      "disconnect": true,
+      "chat": false
     }
   },
   "chat": {
