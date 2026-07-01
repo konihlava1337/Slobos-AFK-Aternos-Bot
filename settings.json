@@ -29,15 +29,15 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 20,
+      "repeat-delay": 10,
       "messages": [
         "PELO JE GEJ"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 1000,
-    "max-reconnect-delay": 20000
+    "auto-reconnect-delay": 20,
+    "max-reconnect-delay": 2000
   },
   "movement": {
     "enabled": true,
