@@ -1,13 +1,13 @@
 {
   "name": "Slobos-AFK-Aternos-Bot",
   "bot-account": {
-    "username": "AFK247",
+    "username": "Kachna SVET",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "1337James-kJhD.aternos.me:",
-    "port": 56138,
+    "ip": "lukasjegej.aternos.me",
+    "port": 63579,
     "version": "1.21.11",
     "try-creative": false
   },
